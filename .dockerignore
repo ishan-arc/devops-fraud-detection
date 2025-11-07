@@ -1,0 +1,15 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-selfcheck.json
+.pytest_cache/
+.vscode/
+.git/
+.github/
+README.md
+model/
+data/
